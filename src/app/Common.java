@@ -9,7 +9,7 @@ class Common {
     public static final String DATABASE_DRIVER = "com.mysql.jdbc.Driver";
     public static final String DATABASE_URL = "jdbc:mysql://127.0.0.1:3306/textile";
     public static final String DATABASE_USERNAME = "root";
-    public static final String DATABASE_PASSWORD = "Caretta";
+    public static final String DATABASE_PASSWORD = "12345password";
 
     // date formatter
     public static final String DATE_FORMAT = "dd/MM/yyyy";
